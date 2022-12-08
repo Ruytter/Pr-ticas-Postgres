@@ -1,0 +1,1 @@
+SELECT * FROM "clientes" limit 3;
