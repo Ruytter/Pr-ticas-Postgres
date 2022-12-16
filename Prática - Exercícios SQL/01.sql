@@ -1,1 +1,2 @@
-SELECT * FROM "produtos" limit 5;
+SELECT COUNT("endDate")  AS currentExperiences
+FROM experiences;

@@ -1,1 +1,0 @@
-SELECT * FROM "produtos" ORDER BY "preco" limit 3;
